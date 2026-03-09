@@ -16,7 +16,7 @@
         {
             "lang": "es",
             "name": "Español",
-            "path": "lang/es.json",
+            "path": "lang/es.json"
         }
     ],
     "url": "https://github.com/TheCoderGamer/FoundryVTT-Cosmere-ESP",
