@@ -21,6 +21,6 @@
         }
     ],
     "url": "https://github.com/TheCoderGamer/FoundryVTT-Cosmere-ESP",
-    "manifest": "",
+    "manifest": "https://raw.githubusercontent.com/TheCoderGamer/FoundryVTT-Cosmere-ESP/main/module.json",
     "download": ""
 }
