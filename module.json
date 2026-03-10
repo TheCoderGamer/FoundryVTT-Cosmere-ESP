@@ -1,34 +1,28 @@
 {
-    "id": "cosmere-rpg-es",
-    "title": "Cosmere RPG - Español",
-    "description": "Traducción al español del sistema Cosmere RPG.",
-    "version": "1.0.0",
-    "compatibility": {
-        "minimum": "13",
-        "verified": "13.351"
-    },
-    "authors": [
-        {
-            "name": "Torakode"
-        }
-    ],
-    "relationships": {
-        "systems": [
-            {
-                "id": "cosmere-rpg",
-                "type": "system"
-            }
-        ]
-    },
-    "languages": [
-        {
-            "lang": "es",
-            "name": "Español",
-            "path": "lang/es.json",
-            "flags": {}
-        }
-    ],
-    "url": "https://github.com/TheCoderGamer/FoundryVTT-Cosmere-ESP",
-    "manifest": "https://raw.githubusercontent.com/TheCoderGamer/FoundryVTT-Cosmere-ESP/main/module.json",
-    "download": "https://github.com/TheCoderGamer/FoundryVTT-Cosmere-ESP/releases/download/Release-1/release.zip"
+  "id": "cosmere-es",
+  "title": "Traducción: Español [Cosmere]",
+  "description": "Traducción al español del sistema Cosmere para Foundry VTT.",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "cosmere-rpg"
+      }
+    ]
+  },
+  "languages": [
+    {
+      "lang": "es",
+      "name": "Español",
+      "path": "lang/es.json",
+      "system": "cosmere-rpg"
+    }
+  ],
+  "url": "https://github.com/TheCoderGamer/FoundryVTT-Cosmere-ESP",
+  "manifest": "https://raw.githubusercontent.com/TheCoderGamer/FoundryVTT-Cosmere-ESP/main/module.json",
+  "download": "https://github.com/TheCoderGamer/FoundryVTT-Cosmere-ESP/releases/download/Release-1/release.zip"
 }
