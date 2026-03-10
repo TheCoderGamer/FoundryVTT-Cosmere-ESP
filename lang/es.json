@@ -8,7 +8,7 @@
                     "placeholder": "[Cultura]"
                 },
                 "Ancestry": {
-                    "placeholder": "[Linaje]"
+                    "placeholder": "[Ascendencia]"
                 },
                 "Path": {
                     "placeholder": "[Camino]"
@@ -83,7 +83,7 @@
                     "short": "VOL"
                 },
                 "Awareness": {
-                    "long": "Percepción",
+                    "long": "Percepcion",
                     "short": "PER"
                 },
                 "Presence": {
@@ -101,37 +101,37 @@
                 "label_p": "Habilidades",
                 "Agility": "Agilidad",
                 "Athletics": "Atletismo",
-                "HeavyWeapons": "Armas Pesadas",
-                "LightWeapons": "Armas Ligeras",
+                "HeavyWeapons": "Armamento Pesado",
+                "LightWeapons": "Armamento Ligero",
                 "Stealth": "Sigilo",
-                "Thievery": "Latrocinio",
-                "Crafting": "Artesanía",
+                "Thievery": "Hurto",
+                "Crafting": "Manufactura",
                 "Deduction": "Deducción",
                 "Discipline": "Disciplina",
                 "Intimidation": "Intimidación",
-                "Lore": "Conocimiento",
+                "Lore": "Saber",
                 "Medicine": "Medicina",
                 "Deception": "Engaño",
                 "Insight": "Perspicacia",
                 "Leadership": "Liderazgo",
-                "Perception": "Percepción",
+                "Perception": "Percepcion",
                 "Persuasion": "Persuasión",
                 "Survival": "Supervivencia"
             },
             "Statistics": {
                 "Defense": "Defensa",
-                "SensesRange": "Sentidos",
+                "SensesRange": "Alcance de los sentidos",
                 "MovementRate": "Movimiento",
                 "LiftingCapactiy": "Capacidad de Carga",
                 "RecoveryDie": "Dado de Recuperación",
-                "Deflect": "Deflexión",
-                "NoObscuredSense": "No afectado por Sentidos Oscurecidos.",
+                "Deflect": "Desvío",
+                "NoObscuredSense": "No afectado por Sentidos ofuscados.",
                 "Immunities": "Inmunidades"
             },
             "Deflect": {
                 "Natural": {
-                    "Label": "Deflexión Natural",
-                    "Hint": "La deflexión natural se usa cuando no se lleva armadura, o cuando la deflexión natural es mayor que la de la armadura equipada."
+                    "Label": "Desvío Natural",
+                    "Hint": "La Desvío natural se usa cuando no se lleva armadura, o cuando la Desvío natural es mayor que la de la armadura equipada."
                 }
             },
             "Size": {
@@ -224,7 +224,7 @@
                 "View": "Ver",
                 "Favorites": "Favoritos",
                 "DropFavorite": "Quitar Favorito",
-                "AncestryPlaceholder": "Añadir Linaje",
+                "AncestryPlaceholder": "Añadir Ascendencia",
                 "CulturePlaceholder": "Añadir Cultura",
                 "PathPlaceholder": "Añadir Camino",
                 "EndScene": "Finalizar Escena",
@@ -233,7 +233,7 @@
                 "ToggleShowSkills": "Mostrar habilidades sin rangos",
                 "ToggleCollapseSkills": "Ocultar habilidades sin rangos",
                 "ConfigureDefense": "Configurar Defensa",
-                "ConfigureDeflect": "Configurar Deflexión",
+                "ConfigureDeflect": "Configurar Desvío",
                 "ConfigureMovement": "Configurar Velocidad de Movimiento",
                 "ConfigureSensesRange": "Configurar Alcance de Sentidos",
                 "ConfigureRecovery": "Configurar Dado de Recuperación",
@@ -282,19 +282,19 @@
                         "Label": "Biografía",
                         "Edit": "Editar Biografía",
                         "Show": "Mostrar Biografía",
-                        "Hide": "Colapsar Biografía"
+                        "Hide": "Ocultar Biografía"
                     },
                     "Appearance": {
                         "Label": "Apariencia",
                         "Edit": "Editar Apariencia",
                         "Show": "Mostrar Apariencia",
-                        "Hide": "Colapsar Apariencia"
+                        "Hide": "Ocultar Apariencia"
                     },
                     "Notes": {
                         "Label": "Notas",
                         "Edit": "Editar Notas",
                         "Show": "Mostrar Notas",
-                        "Hide": "Colapsar Notas"
+                        "Hide": "Ocultar Notas"
                     }
                 },
                 "Skills": {
@@ -310,7 +310,7 @@
         "AttributeGroup": {
             "Physical": {
                 "long": "Físico",
-                "short": "FÍS"
+                "short": "FIS"
             },
             "Cognitive": {
                 "long": "Cognitivo",
@@ -351,8 +351,8 @@
                     "New": "Nuevo Botín"
                 },
                 "Ancestry": {
-                    "label": "Linaje",
-                    "label_plural": "Linajes",
+                    "label": "Ascendencia",
+                    "label_plural": "Ascendencias",
                     "desc_placeholder": "Edita esto para definir un posible origen para un personaje. Incluye también cualquier texto de reglas especiales para que los jugadores lo lean."
                 },
                 "Culture": {
@@ -424,19 +424,19 @@
                     "placeholder": "[Nombre del Arma]"
                 },
                 "Trait": {
-                    "Cumbersome": "Engorrosa",
+                    "Cumbersome": "Voluminosa",
                     "Dangerous": "Peligrosa",
-                    "Deadly": "Letal",
+                    "Deadly": "Mortifera",
                     "Defensive": "Defensiva",
                     "Discreet": "Discreta",
                     "Indirect": "Indirecta",
                     "Loaded": "Cargada",
-                    "Momentum": "Ímpetu",
+                    "Momentum": "Inercia",
                     "Offhand": "Mano Secundaria",
-                    "Pierce": "Perforadora",
-                    "Quickdraw": "Desenfunde Rápido",
+                    "Pierce": "Perforante",
+                    "Quickdraw": "Preparacion Rapida",
                     "Thrown": "Arrojadiza",
-                    "TwoHanded": "Dos Manos",
+                    "TwoHanded": "A Dos Manos",
                     "Unique": "Única",
                     "Fragile": "Frágil",
                     "Reach": "Alcance"
@@ -450,12 +450,12 @@
                     "placeholder": "[Nombre de la Armadura]"
                 },
                 "Trait": {
-                    "Cumbersome": "Engorrosa",
+                    "Cumbersome": "Voluminosa",
                     "Dangerous": "Peligrosa",
                     "Presentable": "Presentable",
                     "Unique": "Única"
                 },
-                "Deflect": "Deflexión"
+                "Deflect": "Desvío"
             },
             "Equipment": {
                 "Type": {
@@ -469,8 +469,8 @@
                         "label_plural": "Acciones Básicas"
                     },
                     "Ancestry": {
-                        "label": "Acción de Linaje",
-                        "label_plural": "Acciones de Linaje"
+                        "label": "Acción de Ascendencia",
+                        "label_plural": "Acciones de Ascendencia"
                     },
                     "Adversary": {
                         "label": "Acción de Adversario",
@@ -478,8 +478,8 @@
                     }
                 },
                 "Ancestry": {
-                    "Label": "Identificador de Linaje",
-                    "Hint": "Identificador del Linaje al que pertenece esta acción. (p. ej. \"humano\")"
+                    "Label": "Identificador de Ascendencia",
+                    "Hint": "Identificador del Ascendencia al que pertenece esta acción. (p. ej. \"humano\")"
                 }
             },
             "Goal": {
@@ -505,7 +505,7 @@
             },
             "Talent": {
                 "Type": {
-                    "Ancestry": "Linaje",
+                    "Ancestry": "Ascendencia",
                     "Path": "Camino",
                     "Power": "Poder"
                 },
@@ -516,7 +516,7 @@
                         "skill": "Habilidad",
                         "connection": "Conexión",
                         "level": "Nivel",
-                        "ancestry": "Linaje",
+                        "ancestry": "Ascendencia",
                         "culture": "Cultura",
                         "goal": "Objetivo"
                     },
@@ -528,7 +528,7 @@
                         "Label": "Nivel"
                     },
                     "Ancestry": {
-                        "Label": "Linaje"
+                        "Label": "Ascendencia"
                     },
                     "Culture": {
                         "Label": "Cultura"
@@ -682,18 +682,18 @@
             "Equip": {
                 "Types": {
                     "Wear": {
-                        "Label": "Puesto"
+                        "Label": "Equipado"
                     },
                     "Hold": {
-                        "Label": "Sostenido"
+                        "Label": "Sosteniendolo"
                     }
                 },
                 "Hold": {
                     "OneHanded": {
-                        "Label": "Una Mano"
+                        "Label": "A Una Mano"
                     },
                     "TwoHanded": {
-                        "Label": "Dos Manos"
+                        "Label": "A Dos Manos"
                     }
                 },
                 "Hand": {
@@ -1011,7 +1011,7 @@
                                     "Label": "Tipo de Macro"
                                 },
                                 "Inline": {
-                                    "Label": "En Línea"
+                                    "Label": "Inline"
                                 },
                                 "UUID": {
                                     "Label": "Macro"
@@ -1077,7 +1077,7 @@
                     "BonusTalents": "Talentos Adicionales",
                     "Restrictions": "Restricciones",
                     "PathReferencePlaceholder": "Arrastra un Camino aquí para establecer el Camino Gratuito",
-                    "TalentIdDescription": "La columna de identificador debe contener el identificador del talento que quieres que los personajes con este Linaje tengan acceso. El identificador del camino solo puede contener letras (a-z), números (0-9), guiones (-) y guiones bajos (_).",
+                    "TalentIdDescription": "La columna de identificador debe contener el identificador del talento que quieres que los personajes con este Ascendencia tengan acceso. El identificador del camino solo puede contener letras (a-z), números (0-9), guiones (-) y guiones bajos (_).",
                     "Component": {
                         "AdvancementTalentList": {
                             "DropTalent": "Arrastra un Talento aquí para añadirlo a la lista",
@@ -1153,9 +1153,9 @@
                     "SpecialtyId": "Identificador de Especialidad",
                     "SpecialtyIdPlaceholder": "Identificador de Especialidad — Opcional",
                     "SpecialtyIdDescription": "El identificador de la especialidad a la que pertenece este talento.",
-                    "AncestryId": "Identificador de Linaje",
-                    "AncestryIdPlaceholder": "Identificador de Linaje",
-                    "AncestryIdDescription": "El identificador del linaje al que pertenece este talento.",
+                    "AncestryId": "Identificador de Ascendencia",
+                    "AncestryIdPlaceholder": "Identificador de Ascendencia",
+                    "AncestryIdDescription": "El identificador del Ascendencia al que pertenece este talento.",
                     "Prerequisites": {
                         "Label": "Requisitos Previos",
                         "Type": "Tipo",
@@ -1245,7 +1245,7 @@
         },
         "Status": {
             "Afflicted": "Afligido",
-            "Blind": "Sin Sentidos",
+            "Blind": "Ciego",
             "Burrowing": "Excavando",
             "Determined": "Determinado",
             "Disoriented": "Desorientado",
@@ -1308,26 +1308,26 @@
             "spd": "Velocidad",
             "int": "Intelecto",
             "wil": "Voluntad",
-            "awa": "Percepción",
+            "awa": "Percepcion",
             "pre": "Presencia"
         },
         "Skill": {
             "agi": "Agilidad",
             "ath": "Atletismo",
-            "hwp": "Armas Pesadas",
-            "lwp": "Armas Ligeras",
+            "hwp": "Armamento Pesado",
+            "lwp": "Armamento Ligero",
             "stl": "Sigilo",
-            "thv": "Latrocinio",
-            "cra": "Artesanía",
+            "thv": "Hurto",
+            "cra": "Manufactura",
             "ded": "Deducción",
             "dis": "Disciplina",
             "inm": "Intimidación",
-            "lor": "Conocimiento",
+            "lor": "Saber",
             "med": "Medicina",
             "dec": "Engaño",
             "ins": "Perspicacia",
             "lea": "Liderazgo",
-            "prc": "Percepción",
+            "prc": "Percepcion",
             "prs": "Persuasión",
             "sur": "Supervivencia"
         },
@@ -1369,7 +1369,7 @@
             "Default": "Cosmere"
         },
         "Damage": {
-            "IgnoreDeflect": "Ignorar Deflexión"
+            "IgnoreDeflect": "Ignorar Desvío"
         },
         "Migration": {
             "DocumentMigrationFailed": "Error al migrar {type} \"{name}\". {error}"
@@ -1445,7 +1445,7 @@
             "Title": "Configurar Dado de Recuperación: {actor}"
         },
         "ConfigureDeflect": {
-            "Title": "Configurar Deflexión: {actor}"
+            "Title": "Configurar Desvío: {actor}"
         },
         "EditTalentPrerequisite": {
             "Title": "Editar Requisito Previo"
@@ -1592,7 +1592,7 @@
             "ActorConditionImmune": "{actor} es inmune a {condition}"
         },
         "Error": {
-            "RegisteringConfigs": "Error al registrar configuraciones. Consulta la consola para más detalles."
+            "RegisteringConfigs": "Error al registrar configuraciones. Consulta la consola para más detalles (F12)."
         },
         "Enrichers": {
             "Test": {
@@ -1628,7 +1628,7 @@
         },
         "Item": {
             "culture": "Cultura",
-            "ancestry": "Linaje",
+            "ancestry": "Ascendencia",
             "path": "Camino",
             "connection": "Conexión",
             "goal": "Objetivo",
